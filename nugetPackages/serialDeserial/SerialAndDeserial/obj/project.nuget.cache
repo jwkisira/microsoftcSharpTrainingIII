@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D7FCon4UZQU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kisira\\Documents\\dotNetPractice\\microsoftcSharpTrainingIII\\nugetPackages\\serialDeserial\\SerialAndDeserial\\SerialAndDeserial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kisira\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
